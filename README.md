@@ -6,7 +6,7 @@ Welcome to the SQL Mastery Series, where you’ll learn SQL step by step using p
 
 🔹 Designed for: Beginners to Advanced SQL Users
 🔹 Database Used: PostgreSQL / MySQL / SQL Server
-🔹 Tools: DBeaver (for writing and testing queries)
+🔹 Tools: DBeaver (for writing and testing queries).
 
 
 📁 Folder Structure
