@@ -1,4 +1,4 @@
--- Lesson-04: SQL Fundamentals (Real-Time Queries for HR and Finance Teams)
+
 -- Retrieve all employees in a given department
 SELECT EmpName, Salary FROM Employee WHERE DeptID = (SELECT DeptID FROM Department WHERE DeptName = 'IT');
 
