@@ -1,4 +1,4 @@
-
+-- Creating Customer Table with Enhanced Data Points
 CREATE TABLE Customer (
     CustomerID INT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
     CustomerName VARCHAR(100) NOT NULL,
