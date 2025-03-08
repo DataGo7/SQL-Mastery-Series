@@ -55,7 +55,7 @@ cd SQL-Mastery-Series/Lesson-04_SQL-Fundamentals
 📌 Skills Used: Joins, CTEs, Window functions, indexing, query optimization.
 📌 Outcome: A complete SQL-based data analytics system for real-time insights.
 
-🔗 Connect & Follow for More
+🔗 Connect & Follow for More..
 
 📺 YouTube: Datago Academy
 📸 Instagram: @Datago7
