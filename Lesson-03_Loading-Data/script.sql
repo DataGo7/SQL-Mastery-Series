@@ -1,4 +1,4 @@
--- Lesson-03: Loading Data with Realistic Business Use Cases
+
 INSERT INTO Department (DeptName, Location) VALUES ('IT', 'New York'), ('HR', 'San Francisco'), ('Finance', 'London');
 
 INSERT INTO Employee (EmpName, Email, DeptID, Salary) VALUES 
