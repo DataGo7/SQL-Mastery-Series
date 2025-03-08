@@ -1,5 +1,4 @@
 
--- Lesson-02: Creating Scalable Tables (Real-World Business Scenario: Enterprise Employee Management)
 CREATE TABLE Department (
     DeptID INT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
     DeptName VARCHAR(100) NOT NULL UNIQUE,
